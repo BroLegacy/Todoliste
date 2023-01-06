@@ -1,0 +1,25 @@
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+
+#app{
+    text-align: center;
+}
+
+#app input{
+    text-align: center;
+    margin: auto;
+}
+
+.error-msg {
+    margin: 0 auto 20px auto;
+    padding: 10px;
+    border-radius: 3px 3px 3px 3px;
+    color: #D8000C;
+    background-color: #FFBABA;
+    max-width: 30%;
+}
+
+/* Just for CodePen styling - don't include if you copy paste */
+html {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
